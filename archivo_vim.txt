@@ -1,2 +1,3 @@
 Carlos Rodriguez
 Iniciamos documentos creado en vim
+cambios varios para enviar a rama Development de GitHub
